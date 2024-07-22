@@ -44,11 +44,11 @@ Benchmarking: Evaluate the performance of various machine learning models in pre
 Model Development: Train and develop new machine learning models for concrete strength prediction.
 
 ## Repository Contents ✍️
-Final_Artificial_Data.csv: Contains the numerical data of the monitoring process for different concrete samples.
-model.py: Script for training the deep neural network model.
-predict.py: Script for making predictions using the trained model.
+df_Fs.csv: Contains the numerical data of the monitoring process for different concrete samples.
+XAI_DNN_Fs.py: Script for training the deep neural network model.
 README.md: This document.
-Citation 📄
+
+## Citation 📄
 Please cite the following paper if you use this dataset or model in your research:
 
 @article{guzman2024concretexai, <br />
