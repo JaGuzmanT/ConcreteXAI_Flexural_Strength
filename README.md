@@ -38,10 +38,12 @@ Electrical resistivity (Ω·cm)
 Ultrasonic pulse velocity (m/s)
 Each row represents a concrete sample, with measurements taken at 3, 7, 14, 28, 40, 60, 90, and 120 days after casting.
 
-# Benefits for the Machine Learning Community ✨
+## Benefits for the Machine Learning Community ✨
 Benchmarking: Evaluate the performance of various machine learning models in predicting concrete strength.
+
 Model Development: Train and develop new machine learning models for concrete strength prediction.
-Repository Contents ✍️
+
+## Repository Contents ✍️
 Final_Artificial_Data.csv: Contains the numerical data of the monitoring process for different concrete samples.
 model.py: Script for training the deep neural network model.
 predict.py: Script for making predictions using the trained model.
@@ -64,10 +66,3 @@ URL = {https://github.com/JaGuzmanT/ConcreteXAI }, <br />
 GitHub DOI: 10.5281/zenodo.10553470
 
 Enjoy and happy experimenting!
-
-
-
-
-
-
-4o
