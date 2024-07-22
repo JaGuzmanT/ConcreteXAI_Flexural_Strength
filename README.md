@@ -1,32 +1,34 @@
-Concrete Flexural Strength Estimation Neural Network 🏗️
+# Concrete Flexural Strength Estimation Neural Network 🏗️
 
-Researchers 🧑‍🔬
-Dr. José A. Guzmán-Torres <br />
+## Researchers 🧑‍🔬
+- *Dr. José A. Guzmán-Torres* <br />
 jose.alberto.guzman@umich.mx <br />
 https://orcid.org/0000-0002-9309-9390
-Dr. Francisco J. Domínguez-Mota <br />
+
+- Dr. Francisco J. Domínguez-Mota <br />
 francisco.mota@umich.mx <br />
 https://orcid.org/0000-0001-6837-172X
-Dr. Gerardo Tinoco-Guerrero <br />
+- Dr. Gerardo Tinoco-Guerrero <br />
 gerardo.tinoco@umich.mx <br />
 https://orcid.org/0000-0003-3119-770X
-Dr. Elia Mercedes Alonso Guzmán <br />
+- Dr. Elia Mercedes Alonso Guzmán <br />
 elia.alonso@umich.mx <br />
 https://orcid.org/0000-0002-8502-4313
-Dr. Wilfrido Martínez Molina <br />
+- Dr. Wilfrido Martínez Molina <br />
 wilfrido.martinez@umich.mx <br />
 https://orcid.org/0000-0002-3301-4949
-Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering <br />
-AULA-CIMNE, Morelia, Michoacán, México <br />
-Researchers National System México
 
-Description: 📝
+*Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering* <br />
+*AULA-CIMNE, Morelia, Michoacán, México* <br />
+*Researchers National System México*
+
+## Description: 📝
 This repository contains a deep neural network model designed to estimate the flexural strength of concrete using the ConcreteXAI dataset. The ConcreteXAI dataset provides comprehensive multivariate data that includes measurements of compressive strength, electrical resistivity, ultrasonic pulse velocity, tensile strength, and flexural strength for various concrete mixtures.
 
-Project Summary 📚
+## Project Summary 📚
 The primary objective of this project is to develop a deep neural network capable of accurately predicting the flexural strength of concrete samples based on their composition and properties. This model aims to assist researchers and engineers in the civil engineering field by providing a reliable tool for predicting concrete performance.
 
-Dataset Description 🔥
+## Dataset Description 🔥
 The ConcreteXAI dataset includes the following columns:
 
 Compressive strength (MPa)
@@ -36,7 +38,7 @@ Electrical resistivity (Ω·cm)
 Ultrasonic pulse velocity (m/s)
 Each row represents a concrete sample, with measurements taken at 3, 7, 14, 28, 40, 60, 90, and 120 days after casting.
 
-Benefits for the Machine Learning Community ✨
+# Benefits for the Machine Learning Community ✨
 Benchmarking: Evaluate the performance of various machine learning models in predicting concrete strength.
 Model Development: Train and develop new machine learning models for concrete strength prediction.
 Repository Contents ✍️
